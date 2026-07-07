@@ -1,5 +1,9 @@
 # LANFail
 
+蓝奏
+https://wwbai.lanzouv.com/imtfA3uydyaf
+密码:1206
+
 一个轻量、快速、私密的 Android 局域网 SMB 文件访问工具。
 
 LANFail 专注于解决 Android 手机访问电脑共享文件困难的问题，尤其针对部分手机系统自带文件管理功能不完善、局域网文件访问流程复杂等问题。
